@@ -102,14 +102,14 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "Opthalmological Private Practice",
+      "website": "",
+      "position": "Intern",
       "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "endDate": "2018-05-20",
+      "summary": "Pre-medical student intern",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
+        "Learned required technical skills to operate optical machinery for diagnostic and clinical purposes",
         "Maintain custom data collection and storage infrastructure"
       ]
     },

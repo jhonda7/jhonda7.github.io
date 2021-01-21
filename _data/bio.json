@@ -6,7 +6,7 @@
     "email": "jhonda7@hawaii.edu",
     "phone": "",
     "website": "https://jhonda7.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science with an emphasis in bioinformatis in the Department of Information and Computer Sciences at the University of Hawaii. I hope to graduate in Spring 2021, then matriculate into the M.S program.",
+    "summary": "I am studying for a B.S. in Computer Science with an emphasis in bioinformatis in the Department of Information and Computer Sciences at the University of Hawaii. I hope to graduate in Spring 2021 then matriculate into the M.S program.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -79,18 +79,6 @@
     }
   ],
   "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",

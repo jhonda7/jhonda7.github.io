@@ -31,8 +31,6 @@
     {
       "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -52,11 +50,10 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
+        "Verilog",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML/CSS"
       ]
     },
     {
@@ -64,10 +61,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Verilog",
+        "Git/GitHub"
       ]
     }
   ],

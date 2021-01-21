@@ -110,16 +110,17 @@
       "summary": "Pre-medical student intern",
       "highlights": [
         "Learned required technical skills to operate optical machinery for diagnostic and clinical purposes",
-        "Maintain custom data collection and storage infrastructure"
+        "Worked on the front-end administrative operations of patient care",
+        "Reviewed case and clinical research studies under the supervision of a board-certified Opthalmologist."
       ]
     },
     {
-      "organization": "",
+      "organization": "SPF Non-Profit",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Volunteer teacher/Project manager/Fundraising facilitator",
+      "startDate": "2016-08-31",
+      "endDate": "2016-12-20",
+      "summary": "Taught 5th garde students algebra 1, oversaw project SPF (see projects for more details), helped to raise funds for a shad structure",
       "highlights": [
         "Chair, ACM Manoa, 2016-Present",
         "Member, IEEE Student Branch, 2014-Present",
@@ -129,16 +130,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Magna Cum Laude",
+      "date": "2015",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Awarded to high school seniors with a cumulative GPA of 3.80 or higher."
     },
     {
-      "title": "First place",
+      "title": "Speaker",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Hawaii Opthalmological Society",
+      "summary": "Presented a clinical study of post-operative necrotizing scleritis. (See projects for more information)"
     }
   ],
   "references": [

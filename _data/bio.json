@@ -6,7 +6,7 @@
     "email": "jhonda7@hawaii.edu",
     "phone": "",
     "website": "https://jhonda7.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science with an emphasis in bioinformatics in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021 and subsequent matriculation into the M.S program",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -18,23 +18,35 @@
       {
         "network": "github",
         "username": "jhonda7",
-        "url": "http://github.com/jhonda7"
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "internet of things",
       "keywords": [
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "bioinformatics",
+      "name": "data mining",
       "keywords": [
       ]
     },
@@ -50,9 +62,11 @@
       "level": "",
       "keywords": [
         "C",
+        "C++",
         "Java",
-        "Verilog",
-        "Javascript"
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
@@ -60,27 +74,19 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Vivado",
-        "Git/GitHub"
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Biochemistry",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2015-09-01",
-      "endDate": "2018-05-20",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring 2021)",
-      "studyType": "B.S",
-      "startDate": "2020-01-07",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -89,67 +95,69 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Opthalmological Intern",
-      "website": "",
-      "position": "Intern",
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
       "startDate": "2016-01-01",
-      "endDate": "2018-05-20",
-      "summary": "Pre-Medical Intern at M.D private practice"
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Measured eye parameters for various patients",
-        "Observed multiple surgeries ranging from basic cataract surgeries to corneal transplants at the Hawaii Eye Surgery Center",
-        "Reviewed case and clinical studies focusing on uveitis under the direction of a board-certified opthalmologist"
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "Sun-Bum Nonprofit Student Teacher",
+      "organization": "",
       "website": "",
-      "position": "Guest teacher/Project manager/Fund-raising volunteer",
-      "startDate": "2016-08-31",
-      "endDate": "2016-12-10",
-      "summary": "Taught at an east-Oahu private school while a full time student. Had a preliminary role in the formation of a subsequent non-profit organization.",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-          "Taught algebra 1 curriculum to elementary level students",
-          "Raised the awareness of skin cancer and the importance of SPF",
-          "Advised and advocated an elementary school project that used CAD to 3-D print model shade structures",
-          "Used iOS specific hardware and software to measure the UV intensity in east-Oahu",
-          "Facilitated the gathering of funds required to build an actual structure designed to provide ample UV protection at an elementary school
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Magna Cum Laude with honors",
-      "date": "2015",
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to graduating seniors who have attained above a 3.80 GPA."
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
     {
-      "title": "Speaker",
-      "date": "2017",
-      "awarder": "Hawaii Ophthalmological Society",
-      "summary": "Presented a case study on post-operative necrotizing scleritis. See 'projects' for more information."
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [

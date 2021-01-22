@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Hawaii Ophthalmologist Society Speaking Event
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2016-03-20
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Medicine
+  - Ophthalmology
+  - Public Speaking
+summary: Along with a board certified ophthalmologist, I presented a case study on post operative necrotizing scleritis.
 ---
 
 <div class="ui small rounded images">

@@ -23,7 +23,7 @@ This experience taught me many things, among them: accountability, time-managmen
 
 (Physician name is omitted. Contact me for questions).
 
-You can learn more about postoperative necrotizing scleritis in pub med: one of the research studies we cited: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3225457/).
+You can learn more about postoperative necrotizing scleritis in pub med: one of the research studies we [cited](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3225457/).
 
 
 

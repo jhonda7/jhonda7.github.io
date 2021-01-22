@@ -24,4 +24,4 @@ I was working with various other teachers at the time, but as a student at the t
 (Physician name and school name not disclosed for discretionary reasons. If you have any questions contact me)
 Picture above is from Weather.com and depicts various UV ratings.
 
-Here is a link in the New York Times detailing how much sun protection you need: (https://www.nytimes.com/2007/08/07/health/07real.html).
+Here is a link in the New York Times detailing how much sun protection you [need](https://www.nytimes.com/2007/08/07/health/07real.html).

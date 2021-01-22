@@ -24,7 +24,7 @@ My role involved reviewing several published studies detailing how other physici
 This experience taught me many things, among them: accountability, time-managment, and communication skills. I learned how to read and analyze scientific studies, how to interperet large amounts of data, how to interperet and handle 'extreme cases' in the dat. I was apprehensive in my own ability to give a talk to an audience of medical doctors, but with generous guidance from my advising physician I was able to deliver an informative and engaging talk. 
 
 You can learn more about postoperative necrotizing scleritis in pub med: one of the studies we sited WARNING: The images are not for the faint of heart
-(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3225457/).
+<a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3225457/">
 
 
 

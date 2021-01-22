@@ -69,20 +69,20 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Biochemistry",
-      "studyType": "B.S.",
-      "startDate": "2015-09-01",
-      "endDate": "2018-05-20",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2020-01-07",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }    
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Biochemistry",
+      "studyType": "B.S.",
+      "startDate": "2015-09-01",
+      "endDate": "2018-05-20",
       "gpa": "",
       "courses": [
       ]
@@ -91,21 +91,7 @@
   "work": [
   ],
   "volunteer": [
-    {
-      "organization": "Ophthalmological Private Practice",
-      "website": "",
-      "position": "Intern",
-      "startDate": "2016-01-01",
-      "endDate": "2018-05-20",
-      "summary": "Pre-medical student intern",
-      "highlights": [
-        "Learned required technical skills to operate optical machinery for diagnostic and clinical purposes",
-        "Worked on the front-end administrative operations of patient care",
-        "Shadowed a board-certified ophthalmologist and witnessed hands on patient care and diagnosis",
-        "Reviewed case and clinical research studies under the supervision of a board-certified Opthalmologist."
-      ]
-    },
-    {
+      {
       "organization": "SPF Non-Profit",
       "website": "",
       "position": "Volunteer teacher/Project manager/Fundraising facilitator",
@@ -119,20 +105,34 @@
         "Raised awareness of skin cancer and the necessity of SPF (sun protection)",
         "Played an early role in the administrative processess of incorporation"
       ]
+    },    
+    {
+      "organization": "Ophthalmological Private Practice",
+      "website": "",
+      "position": "Intern",
+      "startDate": "2016-01-01",
+      "endDate": "2018-05-20",
+      "summary": "Pre-medical student intern",
+      "highlights": [
+        "Learned required technical skills to operate optical machinery for diagnostic and clinical purposes",
+        "Worked on the front-end administrative operations of patient care",
+        "Shadowed a board-certified ophthalmologist and witnessed hands on patient care and diagnosis",
+        "Reviewed case and clinical research studies under the supervision of a board-certified Opthalmologist."
+      ]
     }
   ],
   "awards": [
-    {
-      "title": "Magna Cum Laude",
-      "date": "2015",
-      "awarder": "State of Hawaii",
-      "summary": "Awarded to high school seniors with a cumulative GPA of 3.80 or higher."
-    },
     {
       "title": "Speaker",
       "date": "2015",
       "awarder": "Hawaii Opthalmological Society",
       "summary": "Presented a clinical study of post-operative necrotizing scleritis. (See projects for more information)"
+    },    
+    {
+      "title": "Magna Cum Laude",
+      "date": "2015",
+      "awarder": "State of Hawaii",
+      "summary": "Awarded to high school seniors with a cumulative GPA of 3.80 or higher."
     }
   ],
   "references": [

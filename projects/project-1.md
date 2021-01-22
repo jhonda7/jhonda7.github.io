@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: HOS
+title: Hawaii Ophthalmologic Society Speaking Event
 permalink: projects/HOS
 # All dates must be YYYY-MM-DD format!
 date: 2016-03-20

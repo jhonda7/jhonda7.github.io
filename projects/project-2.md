@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/spf.jpg
 title: Student Teaching
 permalink: projects/ST
 # All dates must be YYYY-MM-DD format!

@@ -11,7 +11,7 @@ labels:
   - Financial management
 summary: I had a minor role in helping an ophthalmologist start a sun protection geared non-profit organization.
 ---
-![skin cancer symptom](https://github.com/jhonda7/jhonda7.github.io/blob/master/images/symptoms.jpeg)
+<img class="ui medium right floated rounded image" src="/images/symptoms.jpeg">
 
 Skin cancer is one of the most prevalent types of cancer in the American population. Pictured above is early stage melanoma. In 2017 I had played a small role in the beginning of starting a non-profit organization. The initial goal of this non-profit was to raise awarness of the of skin cancer and educate community members to take skin cancer and skin protection seriously. The non-profit also aimed to raise funds to build a permanent shade structure for an east Oahu elementary school.
 

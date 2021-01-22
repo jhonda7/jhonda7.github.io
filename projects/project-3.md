@@ -20,5 +20,5 @@ My part of the project, although small, was to researched articles of incorporat
 This valuable experiece taught me important skillsets needed to facillitate potential businesses. I managed to network within the community to gain insight and to expedite the formation of the non-profit. I learned valuable business leadership skills as well and learned how to properly declare a non-profit organization.
 
 (Physician, non-profit, and school name are omitted. Contact me for more information)
-For more information on sun safety, please visit: (https://www.ncbi.nlm.nih.gov/books/NBK537164/)
+For more information on sun safety, please [visit](https://www.ncbi.nlm.nih.gov/books/NBK537164/)
 

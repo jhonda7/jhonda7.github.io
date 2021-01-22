@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: I've Bot 99 Problems, But Worrying About a Return Type Isn't One
+title: I've Got 99 Problems, But Worrying About a Return Type Isn't One
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-20
 labels:

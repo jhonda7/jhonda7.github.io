@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/jhonda7/jhonda7.github.io/blob/master/images/pterygium.jpg
+image: /images/pterygium.jpg
 title: Hawaii Ophthalmologic Society Speaking Event
 permalink: projects/HOS
 # All dates must be YYYY-MM-DD format!

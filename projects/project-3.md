@@ -11,7 +11,7 @@ labels:
   - Financial management
 summary: I had a minor role in helping an ophthalmologist start a sun protection geared non-profit organization.
 ---
-
+https://github.com/jhonda7/jhonda7.github.io/blob/master/images/pterygium.jpg
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 In 2017 I had played a small role in the beginning of starting a non-profit organization. This organization is tied to my student teaching experience. The initial goal of this non-profit was to raise awarness of the prevalance of skin cancer and to raise funds to build a permanent shade structure for an eat Oahu elementary school.

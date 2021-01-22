@@ -14,6 +14,7 @@ summary: I was a guest teacher at an east Oahu elementary school that taught alg
 ---
 
 ![UV index](https://github.com/jhonda7/jhonda7.github.io/blob/master/images/UV.jpeg)
+
 Thanks to an Ophthalmologist that I had been shadowing, I had the oppurtunity to teach a 5th grade class required mathematical and technical skills to moniter variable UV conditions. Every week I planned a lesson that I would administer every Friday on either mathematical topic. I also facilitated and oversaw a term long project that involved using UV sensors for the iOS platform to track where on campus had the highest UV readings. The students would collect data and use the material from my lectures to calculate where there was the most UV light damage. I would then lead and facilitate an initiative to use CAD (computer aided design) to 3D print potential shad structes intended to be installed at the campus. (See next project: Fundraising and Non-Profit Administration)
 
 I was in charge of preparing lessons, learning CAD and 3D printing, on my own time. I gave lectures once a week and along with two other teachers taught a class how to use a 3D printer. I was also responsible for teaching relevant and useful skills to the class.

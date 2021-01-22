@@ -11,13 +11,11 @@ labels:
   - Financial management
 summary: I had a minor role in helping an ophthalmologist start a sun protection geared non-profit organization.
 ---
-![](https://github.com/jhonda7/jhonda7.github.io/blob/master/images/spf.jpg)
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+![SPF vs. burn rating](https://github.com/jhonda7/jhonda7.github.io/blob/master/images/spf.jpg)
 
-In 2017 I had played a small role in the beginning of starting a non-profit organization. This organization is tied to my student teaching experience. The initial goal of this non-profit was to raise awarness of the prevalance of skin cancer and to raise funds to build a permanent shade structure for an eat Oahu elementary school.
+Skin cancer is one of the most prevalent types of cancer in the American population. In 2017 I had played a small role in the beginning of starting a non-profit organization. The initial goal of this non-profit was to raise awarness of the of skin cancer and educate community members to take skin cancer and skin protection seriously. The non-profit also aimed to raise funds to build a permanent shade structure for an east Oahu elementary school.
 
-I researched articles of incorporation and necessary tax forms required to esablish a non-profit. I also volunteered my time to sell various sun-health related products to raise sun-health awareness. I was assigned to handle customer transactions and experience.
+My part of the project, although small, was to researched articles of incorporation and necessary tax forms required to esablish a non-profit. I also volunteered my time to sell various sun-health related products to raise sun-health awareness and raise funds for the planned shade structure. I was assigned to handle customer transactions and experience. This experience got my feet wet in the world of business, particularily the process of incorporation.
 
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+This valuable experiece taught me important skillsets needed to facillitate potential businesses. I managed to network within the community to gain insight and to expedite the formation of the non-profit. I learned valuable business leadership skills as well and learned how to properly declare a non-profit organization.
 

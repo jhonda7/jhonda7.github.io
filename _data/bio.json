@@ -6,7 +6,7 @@
     "email": "jhonda7@hawaii.edu",
     "phone": "",
     "website": "https://jhonda7.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science with an emphasis in bioinformatis in the Department of Information and Computer Sciences at the University of Hawaii. I hope to graduate in Spring 2021 then matriculate into the M.S program.",
+    "summary": "I am studying for a B.S. in Computer Science with an emphasis in bioinformatics in the Department of Information and Computer Sciences at the University of Hawaii. I hope to graduate in Spring 2021 then matriculate into the M.S program.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -127,12 +127,6 @@
       "date": "2015",
       "awarder": "Hawaii Opthalmological Society",
       "summary": "Presented a clinical study of post-operative necrotizing scleritis. (See projects for more information)"
-    },    
-    {
-      "title": "Magna Cum Laude",
-      "date": "2015",
-      "awarder": "State of Hawaii",
-      "summary": "Awarded to high school seniors with a cumulative GPA of 3.80 or higher."
     }
   ],
   "references": [

@@ -90,21 +90,6 @@
   ],
 
   "volunteer": [
-      {
-      "organization": "SPF Non-Profit",
-      "website": "",
-      "position": "Volunteer teacher/Project manager/Fundraising facilitator",
-      "startDate": "2016-08-31",
-      "endDate": "2016-12-20",
-      "summary": "Taught 5th grade students algebra 1, oversaw project SPF (see projects for more details), helped to raise funds for a shade structure",
-      "highlights": [
-        "Taught basic algebra skills to elementary school students",
-        "Taught and facilitated the use of CAD to design and build 3D printed shade structure models",
-        "Facilitated the raising of funds needed to build a permanent structure implemented into an East Oahu elementary school campus through various fundraisers",
-        "Raised awareness of skin cancer and the necessity of SPF (sun protection)",
-        "Played an early role in the administrative processes of incorporation"
-      ]
-    },    
     {
       "organization": "Ophthalmological Private Practice",
       "website": "",
@@ -118,7 +103,22 @@
         "Shadowed a board-certified ophthalmologist and witnessed hands on patient care and diagnosis",
         "Reviewed case and clinical research studies under the supervision of a board-certified Ophthalmologist."
       ]
-    }
+    },      
+    {
+      "organization": "SPF Non-Profit",
+      "website": "",
+      "position": "Volunteer teacher/Project manager/Fundraising facilitator",
+      "startDate": "2016-08-31",
+      "endDate": "2016-12-20",
+      "summary": "Taught 5th grade students algebra 1, oversaw project SPF (see projects for more details), helped to raise funds for a shade structure",
+      "highlights": [
+        "Taught basic algebra skills to elementary school students",
+        "Taught and facilitated the use of CAD to design and build 3D printed shade structure models",
+        "Facilitated the raising of funds needed to build a permanent structure implemented into an East Oahu elementary school campus through various fundraisers",
+        "Raised awareness of skin cancer and the necessity of SPF (sun protection)",
+        "Played an early role in the administrative processes of incorporation"
+      ]
+    }     
   ],
   "awards": [
     {

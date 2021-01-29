@@ -7,6 +7,8 @@ date: 2021-01-20
 labels:
   - Software Engineering
   - Learning
+  - JavaScript
+  - WOD
 ---
 
 JavaScript, so far, rocks. This is coming from someone whose first language was C. Don't get me wrong, C is amazing. But JavaScript feels like a mirage: too good to be true. As you can tell from the title, the most shocking thing I found was the lack of formality when declaring functions. In fact, I was hardwired to think that you must ALWAYS specify what your code is doing so you can always expect what is going to happen. Not having to declare a return type, not going to lie, makes me feel uneasy. This also makes my code extremely error prone, I’m still getting used to JavaScript’s rules of scope, domain, and classes. Or should I say pseudo-classes. This leads me to my next point, just how good is JavaScript for software engineering?

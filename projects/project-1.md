@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/project1.jpg
-title: Hawaii Ophthalmologic Society Speaking Event
+title: Hawaii Ophthalmological Society Speaking Event
 permalink: projects/HOS
 # All dates must be YYYY-MM-DD format!
 date: 2016-03-20
@@ -10,7 +10,7 @@ labels:
   - Medicine
   - Ophthalmology
   - Public Speaking
-summary: During my internship with a board certified ophthalmologist, I was offered the opurtunity to present a case study at the annual Hawaii Ophthalmological Society (HOS) talk on postoperative necrotizing scleritis.
+summary: During my internship with a board certified ophthalmologist, I was offered the oppurtunity to present a case study at the annual Hawaii Ophthalmological Society (HOS) talk on postoperative necrotizing scleritis.
 ---
 
 <img class="ui medium right floated rounded image" src="/images/Scleritis.jpeg">

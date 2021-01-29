@@ -13,7 +13,7 @@ labels:
 summary: During my internship with a board certified ophthalmologist, I was offered the opurtunity to present a case study at the annual Hawaii Ophthalmological Society (HOS) talk on postoperative necrotizing scleritis.
 ---
 
-<img class="ui medium center floated rounded image" src="/images/necrotizing.jpeg">
+<img class="ui medium right floated rounded image" src="/images/necrotizing.jpeg">
 
 In the spring of 2016, I gave a talk at the annual Hawaii Ophthalmologic Society meeting on a case study of postoperative necrotizing scleritis (pictured above with corneal graft). Postoperative necrotizing scleritis is an aggresive infection caused by a strain of bacteria that necrotizes, or decomposes, the scleral tissue. The scleral tissue decays and in serious cases can lead to blindness. This condition occurs in a large percentege of patients who under go intraocular or even topological excision-type surgeries. The case study at this talk focused on a patient on whom the Ophthalmologist I had been shadowing at the time performed a pterygium excision. The patient later developed a case of post operative necrotizing scleritis. The talk overviewed the stages of: recognition and diagnosis, treatments, potential complications, and prognosis all aiming to highlight to other physicians the necessity and delicacy involved in post-surgical care.
 

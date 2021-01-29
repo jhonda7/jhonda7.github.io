@@ -27,7 +27,7 @@ The name of the supervising physician is omitted. Please contact me for further 
 
 Copyright notice:
 All images used (summary image and image above) are licensed under a Creative Commons License. Image links are below.
-Summary [picture](https://www.google.com/search?q=ophthalmologist%20modern&tbm=isch&hl=en&safe=active&tbs=il:cl&sa=X&ved=0CAAQ1vwEahcKEwiYy-jL67_uAhUAAAAAHQAAAAAQAg&biw=1280&bih=721#imgrc=CR2b9xk8LrakYM)
+Summary [picture](https://www.google.com/search?q=ophthalmologist%20modern&tbm=isch&hl=en&safe=active&tbs=il:cl&sa=X&ved=0CAAQ1vwEahcKEwiYy-jL67_uAhUAAAAAHQAAAAAQAg&biw=1280&bih=721#imgrc=CR2b9xk8LrakYM) and 
 Necrotizing Scleritis [picture](https://www.google.com/search?q=scleritis&tbm=isch&tbs=il:cl&hl=en&sa=X&ved=0CAAQ1vwEahcKEwiAnqfz_r_uAhUAAAAAHQAAAAAQAg&biw=1280&bih=721)
 
 

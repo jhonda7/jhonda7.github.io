@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/spf.jpg
+image: images/project2.jpg
 title: SPF Non-Profit Incorporation and Fundraising
 permalink: projects/SPF
 # All dates must be YYYY-MM-DD format!

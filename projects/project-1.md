@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pterygium.jpg
+image: images/project1.jpg
 title: Hawaii Ophthalmologic Society Speaking Event
 permalink: projects/HOS
 # All dates must be YYYY-MM-DD format!

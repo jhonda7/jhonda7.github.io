@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sensor.jpeg
+image: images/project3.png
 title: Student Teaching
 permalink: projects/ST
 # All dates must be YYYY-MM-DD format!

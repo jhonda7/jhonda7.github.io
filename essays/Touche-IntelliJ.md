@@ -5,7 +5,7 @@ title: Touché, IntelliJ
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-11
 labels:
-  - Codin Standards
+  - Coding Standards
   - Learning
   - IntelliJ
   - ESLint

@@ -1,3 +1,17 @@
+---
+layout: essay
+type: essay
+title: How to Get By With SemanticUI!
+# All dates must be YYYY-MM-DD format!
+date: 2021-02-25
+labels:
+  - SemanticUI
+  - Learning
+  - UI Design
+  - UI Frameworks
+  - Advice
+---
+
 When I was first introduced to the SemanticUI framework I was extremely intimidated - nothing made sense! The various elements and seemingly endless customization options were overwhelming and suffocating. To put this into perspective, reading the SemanticUI documentation is the software engineer’s version of walking into a seriously decked out craft store (on steroids). Interesting for some, but nauseating for others! But rest assured if you belong to the latter group, I’m your guy! I’ve spent the last week struggling through the documentation and hours of video lectures trying to figure out what the big idea is. Below I’ve included three things that have helped me to better understand SemanticUI and hopefully will save you time on your SemanticUI journey.
 
 ## Beautiful, User Friendly Documentation

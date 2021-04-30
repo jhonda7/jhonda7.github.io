@@ -27,7 +27,7 @@ While in no way do I claim to be an expert in either impressionism or software d
 
 Perhaps one of the most notable feature of a Meteor application is the way that data is passed around and accessed from the database, i.e the publication and subscription model. This pattern was one that confused the heck out of me. Before trying to even understand what was going on I focused on syntax, keys, and mysterious functions, I was looking too closely at the picture. Taking a step or two back helped me to understand the big picture and helped me to realize that the publication-subscriptions model is an amazingly beautiful process. Pictured below is a 'Users' collection that stores data for a user of the application, BowedIn.
 
-```
+```javascript
 class UsersCollection {
   constructor() {
     this.name = 'UsersCollection';
@@ -37,7 +37,7 @@ class UsersCollection {
 
 Now what do we do with this data? Publish it to users of course!
 
-```
+```javascript
 Meteor.publish(users.userPublicationName, function () {
   if (this.userId) {
     const username = Meteor.users.findOne(this.userId).username;
@@ -49,7 +49,7 @@ Meteor.publish(users.userPublicationName, function () {
 
 And finally, consider what happens if users need to access their data to edit it. We set up 'Subscriptions' within individual JSX pages and components that have the ability to access the database by virtue of the publication (pictured above).
 
-```
+```javascript
 const subscription = Meteor.subscribe(users.userPublicationName);
 ```
 
@@ -59,7 +59,7 @@ It is important to note that we certainly did not invent the publication-subscri
 
 The second idea I would like to discuss is the idea of reactive data. In my software engineering class we use JSX along with SemanticUI with React. The technicalities of how this exactly works is not necessarily complicated, but deals with an idea that is probably unfamiliar to budding software engineers. Reactive data creates an almost 'automated' feel to the code in the sense that you will typically have one class within a JSX file and a event handler function: onSubmit or onClick that calls a method within that class to handle the change in state of data. Below is the beginning portion of a render method in the BowedIn code. You'll notice that there is a nested <Redirect > element at the beginning of the class. This did not make much sense to me when I first started out with Meteor, I thought that a page is rendered at most one time and therefore it would not make sense to redirect to a different page right off of the bat. However, as you will see, the Redirect is for the time that the page is re-rendered. Take a look:
 
-```
+```javascript
 render() {
     const { from } = this.props.location.state || { from: { pathname: this.state.redirectTo } };
     if (this.state.redirectTo) {
@@ -70,13 +70,13 @@ render() {
 
 What actually causes the re-rendering of a page is when the user presses the 'submit' button. Notice at the end of this Form component (pictured below) there is a line:
 
-```
+```javascript
 <Form.Button id="signup-form-submit" content="Submit"/>
 ```
 
 This lets Meteor know to call the 'submit' method:
 
-```
+```javascript
 submit = () => {
        const { email, password, choice } = this.state;
        Accounts.createUser({ email, username: email, password, choice }, (err) => {

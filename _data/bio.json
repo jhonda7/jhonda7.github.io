@@ -53,6 +53,7 @@
         "Java",
         "Verilog",
         "Javascript",
+        "JSX",
         "HTML/CSS"
       ]
     },
@@ -62,7 +63,9 @@
       "keywords": [
         "MacOS",
         "Vivado",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Digital Ocean",
+        "Testcafe"
       ]
     }
   ],

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project1.jpg
+image: images/bowedInProject1.png
 title: Creating a job finding app with BowedIn
 permalink: projects/bowedin
 # All dates must be YYYY-MM-DD format!

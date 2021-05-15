@@ -53,6 +53,7 @@
         "Java",
         "Verilog",
         "Javascript",
+        "JSX",
         "HTML/CSS"
       ]
     },
@@ -62,7 +63,10 @@
       "keywords": [
         "MacOS",
         "Vivado",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Meteor",
+        "Digital Ocean",
+        "Testcafe"
       ]
     }
   ],
@@ -73,16 +77,6 @@
       "studyType": "B.S.",
       "startDate": "2020-01-07",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    },    
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Biochemistry",
-      "studyType": "B.S.",
-      "startDate": "2015-09-01",
-      "endDate": "2018-05-20",
       "gpa": "",
       "courses": [
       ]
